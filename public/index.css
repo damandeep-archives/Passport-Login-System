@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+}
+
+form{
+    width: 50%;
+}
+
+a{
+    margin-top: 100px;
+    margin-left: 10px;
+}
+
+.logout{
+    margin-left: 2px;
+    
+}
+
+.welcome{
+    font-size: 50px;
+}
