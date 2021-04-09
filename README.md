@@ -1,5 +1,5 @@
 # Passport-Login-System
-Simple user authentication and login using NodeJs.
+Simple user authentication and login using NodeJs and Express.
 Express is used for our server backend and Passport to help us manage the logged in state of users.
 
 For using the app:-
